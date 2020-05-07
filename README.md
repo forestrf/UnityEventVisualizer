@@ -28,6 +28,6 @@ This is a work-in-progress. Pull requests welcome!
 <h2>Who</h2>
 
 - Original idea by [SoylentGraham](https://github.com/SoylentGraham)
-- Code by [Luca Mefisto](https://github.com/MephestoKhaan) (myself)
+- Code by [Luca Mefisto](https://github.com/MephestoKhaan) (from where this fork comes)
 - Inspired by [Keijiro Takahashi](https://github.com/keijiro)
-- SceneView representation by [Andrés Leone](https://github.com/forestrf)
+- SceneView representation by [Andrés Leone](https://github.com/forestrf) (me)
